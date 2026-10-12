@@ -15,6 +15,8 @@ Et des clubs pour les découvrir, en parler et les noter entre amis.
 
 **Gratuit** · **Sans publicité** · **En français** · Sur ordinateur, iPhone et Android
 
+Une application imaginée et dirigée par OddReak, **codée avec [Claude](https://claude.com)**, l'intelligence artificielle d'Anthropic.
+
 <br>
 
 <img src="images/accueil.webp" alt="L'accueil de Clubs Club : les œuvres en cours, la prochaine réunion du club, l'activité des amis et le calendrier des sorties" width="920">
@@ -166,8 +168,17 @@ Sur téléphone, ajoutez ensuite le site à votre écran d'accueil pour l'utilis
 
 ---
 
+## Crédits
+
+**Conception et direction** — OddReak.
+
+**Développement** — Clubs Club a été codé avec [Claude](https://claude.com), l'intelligence artificielle d'[Anthropic](https://www.anthropic.com), sous la direction de son auteur, qui en a décidé les fonctions et validé les étapes. Cette page aussi a été rédigée avec Claude.
+
+**Œuvres** — Les jaquettes, affiches, pochettes et couvertures appartiennent à leurs ayants droit respectifs : éditeurs et studios de jeux vidéo, labels et artistes, sociétés de production et de distribution, maisons d'édition. Elles ne servent ici qu'à identifier les œuvres.
+
+**Informations sur les œuvres** — Steam, IGDB, TMDB, Apple Music, Last.fm, Hardcover, Google Books et Open Library. Ce produit utilise l'API de TMDB, sans être approuvé ni certifié par TMDB. Steam, Apple Music, Last.fm, Jellyfin, Letterboxd, Goodreads, Deezer et Spotify sont des marques de leurs propriétaires respectifs ; Clubs Club n'est affilié à aucun d'entre eux.
+
 <sub>
 Les écrans présentés proviennent de comptes de démonstration : aucune donnée d'un membre réel n'y figure.<br>
-Les jaquettes, affiches et pochettes appartiennent à leurs ayants droit et ne servent qu'à identifier les œuvres. Les informations sur les œuvres proviennent de Steam, IGDB, TMDB, Apple Music, Last.fm, Hardcover, Google Books et Open Library. Ce produit utilise l'API de TMDB, sans être approuvé ni certifié par TMDB.<br>
 © Clubs Club. Tous droits réservés.
 </sub>
