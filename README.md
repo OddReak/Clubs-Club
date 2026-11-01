@@ -19,7 +19,7 @@ Une application imaginée et dirigée par OddReak, **codée avec [Claude](https:
 
 <br>
 
-<img src="images/accueil.webp" alt="L'accueil de Clubs Club : les œuvres en cours, la prochaine réunion du club, l'activité des amis et le calendrier des sorties" width="920">
+<img src="images/accueil.webp" alt="L'accueil de Clubs Club : les œuvres en cours, l'activité des amis et le calendrier des prochaines sorties" width="920">
 
 </div>
 
@@ -53,7 +53,7 @@ Clubs Club réunit tout. Chaque œuvre a sa fiche, son statut, votre note et vot
       Un jeu, un album, un film, une série, un livre, ou un ami : une seule barre. Synopsis, casting, éditions françaises des livres, et ce que vous possédez déjà est signalé.
     </td>
     <td valign="top">
-      <img src="images/recap.webp" alt="Le récap de la semaine : films vus, épisodes, albums écoutés">
+      <img src="images/recap.webp" alt="Le récap du mois : films vus et temps passé, épisodes, albums écoutés">
       <h3>Votre récap</h3>
       Chaque semaine et chaque mois, ce que vous avez vu, écouté, lu et joué. Et en fin d'année, votre bilan complet à parcourir comme une histoire.
     </td>
