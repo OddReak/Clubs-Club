@@ -41,9 +41,9 @@ Clubs Club réunit tout. Chaque œuvre a sa fiche, son statut, votre note et vot
       Jeux vidéo, musique, cinéma et séries, livres : la même logique partout. Ce que vous voulez découvrir, ce qui est en cours, ce que vous avez terminé — d'un coup d'œil, avec vos notes sur chaque jaquette.
     </td>
     <td width="50%" valign="top">
-      <img src="images/fiche.webp" alt="La fiche d'un jeu avec sa note, ses points positifs et négatifs et sa critique">
+      <img src="images/fiche.webp" alt="La fiche d'un jeu avec la note du public, votre note, vos points positifs et négatifs et votre critique">
       <h3>Vos critiques, à votre façon</h3>
-      Une note sur 10, les points forts, les points faibles, quelques lignes si le cœur vous en dit. Un coup de cœur d'un geste. Et une critique prête à être envoyée à quelqu'un.
+      Une note sur 10, les points forts, les points faibles, quelques lignes si le cœur vous en dit. Un coup de cœur d'un geste. Et pour chaque jeu, la note du public, IGDB et Steam réunis.
     </td>
   </tr>
   <tr>
